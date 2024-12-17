@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+  }
+  
+  .sign-in-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #eceff1;
+  }
+  
+  .sign-in-box {
+    display: flex;
+    width: 700px;
+    height: 400px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+  }
+  
+  .left-section {
+    width: 50%;
+    background-image: url('https://www.example.com/image.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .right-section {
+    width: 50%;
+    padding: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #fdfdfd;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+  
+  .register-btn, .sign-in-btn {
+    background-color: transparent;
+    color: #7a7a7a;
+    border: 1px solid #7a7a7a;
+    border-radius: 20px;
+    padding: 8px 18px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .register-btn:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .sign-in-btn.active, .sign-in-btn:hover {
+    background-color: #673ab7;
+    color: #fff;
+    border: none;
+  }
+  
+  .sign-in-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-field {
+    margin-bottom: 15px;
+    padding: 12px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+  
+  .input-field:focus {
+    outline: none;
+    border-color: #673ab7;
+  }
+  
+  .password-field {
+    position: relative;
+  }
+  
+  .show-password {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    color: #999;
+    transition: color 0.3s;
+  }
+  
+  .show-password:hover {
+    color: #673ab7;
+  }
+  
+  .submit-btn {
+    background-color: #673ab7;
+    color: white;
+    padding: 12px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-btn:hover {
+    background-color: #5a1c87;
+  }
+  
+  .links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .link {
+    color: #673ab7;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }

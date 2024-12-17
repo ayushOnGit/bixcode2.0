@@ -1,0 +1,162 @@
+[
+  {
+    "id": "gui.device.unselectDevice.name",
+    "description": "Name for the unselect device",
+    "defaultMessage": "Unselect device"
+  },
+  {
+    "id": "gui.device.unselectDevice.description",
+    "description": "Description for the unselect device",
+    "defaultMessage": "Unselect the device, return to pure realtime programming mode."
+  },
+  {
+    "id": "gui.device.arduinoUno.description",
+    "description": "Description for the Arduino Uno device",
+    "defaultMessage": "A great board to get started with electronics and coding."
+  },
+  {
+    "id": "gui.device.arduinoUno.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.modular.description",
+    "description": "Description for Modular device",
+    "defaultMessage": "Use Port to Connect Sensor and Output"
+  },
+  {
+    "id": "gui.device.intellecto.description",
+    "description": "Description for Intellecto device",
+    "defaultMessage": "Use Port to Connect Sensor and Output"
+  },
+  {
+    "id": "gui.device.microbit.description",
+    "description": "Description for the micro:bit device",
+    "defaultMessage": "The pocket-sized computer transforming digital skills learning."
+  },
+  {
+    "id": "gui.device.microbit.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.machines.description",
+    "description": "Description for Machine 7 in 1 device",
+    "defaultMessage": "Use Port to Connect Sensor and Output"
+  },
+  {
+    "id": "gui.device.Modular.description",
+    "description": "Description for Modular device",
+    "defaultMessage": "Use Port to Connect Sensor and Output"
+  },
+  {
+    "id": "gui.device.arduinoNano.description",
+    "description": "Description for the Arduino Nano device",
+    "defaultMessage": "The Arduino Nano is a classic small board to build your projects with."
+  },
+  {
+    "id": "gui.device.arduinoNano.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.accelero.description",
+    "description": "Description for Accelero device",
+    "defaultMessage": "Use Port to Connect Sensor and Output"
+  },
+  {
+    "id": "gui.device.army_tank.description",
+    "description": "Description for Army Tank device",
+    "defaultMessage": "Use Port to Connect Sensor and Output"
+  },
+  {
+    "id": "gui.device.arduinoLeonardo.description",
+    "description": "Description for the Arduino Leonardo device",
+    "defaultMessage": "The classic Arduino board that can act as a mouse or keyboard."
+  },
+  {
+    "id": "gui.device.arduinoLeonardo.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.arduinoMega2560.description",
+    "description": "Description for the Arduino Mega 2560 device",
+    "defaultMessage": "The 8-bit board with 54 digital pins, 16 analog inputs, and 4 serial ports."
+  },
+  {
+    "id": "gui.device.arduinoMega2560.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.esp32.description",
+    "description": "Description for the esp32 device",
+    "defaultMessage": "Wi-Fi & Bluetooth control board with rich functions."
+  },
+  {
+    "id": "gui.device.esp32.connectingMessage",
+    "description": "Message to help people connect to their esp32.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.esp8266NodeMCU.description",
+    "description": "Description for the esp8266 NodeMCU device",
+    "defaultMessage": "Low-cost Wi-Fi SOC control board."
+  },
+  {
+    "id": "gui.device.esp8266NodeMCU.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.k210MaixDock.description",
+    "description": "Description for the K210 MaixDock device",
+    "defaultMessage": "A control board based on the K210 RISC-V chip that only has basic functions and leads out all IO pins."
+  },
+  {
+    "id": "gui.device.k210MaixDock.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.k210Maixduino.description",
+    "description": "Description for the K210 maixduino device",
+    "defaultMessage": "The K210 RISC-V board with ESP32 inside."
+  },
+  {
+    "id": "gui.device.k210Maixduino.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.raspberryPiPicoIconURL.description",
+    "description": "Description for the Raspberry Pi Pico device",
+    "defaultMessage": "The powerful, flexible microcontroller board."
+  },
+  {
+    "id": "gui.device.raspberryPiPicoIconURL.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.microbitV2.description",
+    "description": "Description for the micro:bit V2 device",
+    "defaultMessage": "Upgraded processor, built-In speaker and microphone, touch sensitive logo."
+  },
+  {
+    "id": "gui.device.microbitV2.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  },
+  {
+    "id": "gui.device.makeymakey.description",
+    "description": "Description for the Makey Makey device",
+    "defaultMessage": "Make anything into a key."
+  },
+  {
+    "id": "gui.device.makeyMakey.connectingMessage",
+    "description": "Message to help people connect to their device.",
+    "defaultMessage": "Connecting"
+  }
+]

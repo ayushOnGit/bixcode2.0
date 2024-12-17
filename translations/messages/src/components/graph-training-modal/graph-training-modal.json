@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gui.trainModal.category",
+    "description": "category",
+    "defaultMessage": "category"
+  },
+  {
+    "id": "gui.trainModal.cancel",
+    "description": "Cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "gui.trainModal.confirm",
+    "description": "Confirm",
+    "defaultMessage": "Confirm"
+  },
+  {
+    "id": "gui.trainModal.title",
+    "description": "Model Training",
+    "defaultMessage": "Machine Learning Module"
+  },
+  {
+    "id": "gui.trainModal.result",
+    "description": "result",
+    "defaultMessage": "Predicted Result"
+  },
+  {
+    "id": "gui.trainModal.newModel",
+    "description": "newModel",
+    "defaultMessage": "New model"
+  },
+  {
+    "id": "gui.trainModal.usingModel",
+    "description": "usingModel",
+    "defaultMessage": "Using the model"
+  },
+  {
+    "id": "gui.trainModal.modelResourceLoading",
+    "description": "loading",
+    "defaultMessage": "Model resource loading......"
+  },
+  {
+    "id": "gui.trainModal.clearPrompt",
+    "description": "clearPrompt",
+    "defaultMessage": "Are you sure you want to clear the current classification of samples?"
+  },
+  {
+    "id": "gui.trainModal.newModelPrompt",
+    "description": "newModelPrompt",
+    "defaultMessage": "New model will clear the current training data, determine new?"
+  },
+  {
+    "id": "gui.trainModal.modelCategoryNumber",
+    "description": "modelCategoryNumber",
+    "defaultMessage": "Number of model classifications"
+  },
+  {
+    "id": "gui.trainModal.notSupportMediaDevices",
+    "description": "notSupportMediaDevices",
+    "defaultMessage": "Your browser does not support access to your media devices"
+  }
+]

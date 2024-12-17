@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gui.trainModal.recognitionWindow",
+    "description": "recognitionWindow",
+    "defaultMessage": "Recognition Window"
+  },
+  {
+    "id": "gui.trainModal.notSupportMediaDevices",
+    "description": "notSupportMediaDevices",
+    "defaultMessage": "Your browser does not support access to your media devices"
+  }
+]

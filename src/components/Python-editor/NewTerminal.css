@@ -1,0 +1,87 @@
+/* Container styling for terminal */
+.terminal-container {
+    width: 100%;
+    max-width: 64rem;
+    margin: 0 auto;
+    border: brown; /* Remove border */
+    border-radius: 0.5rem;
+    outline: rgb(140, 140, 197) ;    
+    overflow: hidden;
+    box-shadow: none; /* Remove any potential shadow */
+}
+
+
+/* Header styling */
+.terminal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2d3748;
+    padding: 0.5rem;
+    color: white;
+    border-bottom: 1px solid #4a5568;
+}
+
+/* Header text styling */
+.terminal-title {
+    font-weight: bold;
+}
+
+/* Button container styling in header */
+.terminal-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* Button styling */
+.terminal-button {
+    background-color: #38a169;
+    font-weight: bold;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.terminal-button:hover {
+    background-color: #2f855a;
+}
+
+.terminal-button-stop {
+    background-color: #e53e3e;
+}
+
+.terminal-button-stop:hover {
+    background-color: #c53030;
+}
+
+/* Terminal output window styling */
+.terminal-output {
+    font-family: monospace;      /* Use a monospace font for terminal style */
+    padding: 1rem;               /* Add padding for better readability */
+    overflow-y: scroll;            /* Enable vertical scrolling when content overflows */
+    height: 20rem;               /* Set a fixed height */
+    background-color: black;     /* Black background for terminal look */
+    color: white;                /* White text for contrast */
+    white-space: pre-wrap;       /* Preserve whitespace and line breaks */
+    box-shadow: none;            /* Remove shadow inside the terminal output */
+    outline: rgb(140, 140, 197) ;               /* Remove outline from the terminal output */
+}
+
+/* Optional: Customizing the scrollbar (for WebKit browsers) */
+.terminal-output::-webkit-scrollbar {
+    width: 8px;                  /* Width of the scrollbar */
+}
+
+.terminal-output::-webkit-scrollbar-thumb {
+    background-color: rgb(92, 212, 32);  /* Color of the scrollbar thumb */
+    border-radius: 4px;          /* Rounded edges for the scrollbar thumb */
+}
+
+.terminal-output::-webkit-scrollbar-track {
+    background: #33b60c;            /* Background color of the scrollbar track */
+}
+
+
+/* Focus styling for terminal output */
+

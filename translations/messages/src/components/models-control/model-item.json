@@ -1,0 +1,50 @@
+[
+  {
+    "id": "gui.modelExtension.modelFilePath",
+    "defaultMessage": "File"
+  },
+  {
+    "id": "gui.modelExtension.modelFilePath.placeholder",
+    "defaultMessage": "Path to model file on SD card or model address"
+  },
+  {
+    "id": "gui.modelExtension.modelFilePath.placeholder2",
+    "defaultMessage": "Path to model file on SD card"
+  },
+  {
+    "id": "gui.modelExtension.modelName",
+    "defaultMessage": "Model Name"
+  },
+  {
+    "id": "gui.modelExtension.modelAnchor",
+    "defaultMessage": "Anchors"
+  },
+  {
+    "id": "gui.modelExtension.modelAnchor.placeholder",
+    "defaultMessage": "Path to model file on SD card or model address"
+  },
+  {
+    "id": "gui.modelExtension.modelSamplesNum",
+    "defaultMessage": "Number of samples"
+  },
+  {
+    "id": "gui.modelExtension.model.categoryName",
+    "defaultMessage": "Category Name"
+  },
+  {
+    "id": "gui.modelExtension.modelDelete.tipLabel",
+    "defaultMessage": "Prompt"
+  },
+  {
+    "id": "gui.modelExtension.modelDelete.message",
+    "defaultMessage": "Would you like to delete this model?"
+  },
+  {
+    "id": "gui.modelExtension.modelDelete.okText",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "gui.modelExtension.modelDelete.cancelText",
+    "defaultMessage": "Cancel"
+  }
+]

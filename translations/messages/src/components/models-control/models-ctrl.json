@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gui.modelExtension.addModelButton",
+    "defaultMessage": "Model"
+  },
+  {
+    "id": "gui.modelExtension.imgModelButton",
+    "defaultMessage": "Image Classification Model"
+  },
+  {
+    "id": "gui.modelExtension.objModelButton",
+    "defaultMessage": "Object Detection Model"
+  },
+  {
+    "id": "gui.modelExtension.deviceTrainButton",
+    "defaultMessage": "On-device training"
+  },
+  {
+    "id": "gui.modelExtension.saveText",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "gui.modelExtension.cancelText",
+    "defaultMessage": "Cancel"
+  }
+]

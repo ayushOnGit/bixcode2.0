@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gui.desktopMenuBar.about",
+    "description": "Menu bar item for about",
+    "defaultMessage": "About"
+  },
+  {
+    "id": "gui.desktopMenuBar.license",
+    "description": "Menu bar item for license",
+    "defaultMessage": "License"
+  },
+  {
+    "id": "gui.menuBar.privacyPolicy",
+    "description": "Menu bar item for privacy policy",
+    "defaultMessage": "Privacy policy"
+  },
+  {
+    "id": "gui.menuBar.dataSettings",
+    "description": "Menu bar item for data settings",
+    "defaultMessage": "Data settings"
+  }
+]

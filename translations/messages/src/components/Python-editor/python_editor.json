@@ -1,0 +1,7 @@
+[
+  {
+    "id": "gui.hardwareHeader.upload",
+    "description": "Button to upload program",
+    "defaultMessage": "Upload"
+  }
+]

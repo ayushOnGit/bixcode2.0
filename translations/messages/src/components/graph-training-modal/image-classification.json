@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gui.trainModal.category",
+    "description": "category",
+    "defaultMessage": "category"
+  },
+  {
+    "id": "gui.trainModal.sample",
+    "description": "sample",
+    "defaultMessage": "sample"
+  },
+  {
+    "id": "gui.trainModal.reset",
+    "description": "Reset",
+    "defaultMessage": "Reset"
+  },
+  {
+    "id": "gui.trainModal.learn",
+    "description": "Learn",
+    "defaultMessage": "Train Data"
+  }
+]
